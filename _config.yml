@@ -20,7 +20,7 @@ title                    : "jvnghyun's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jvnghyun"
-description              : "HTML/CSS STUDY"
+description              : "HTML/CSS Studying"
 url                      : "https://jvnghyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "jvnghyun"
   avatar           : "https://avatars.githubusercontent.com/u/88497495?v=4"
-  bio              : "HTML/CSS studying"
+  bio              : "HTML/CSS Studying"
   location         : "South Korea"
   email            : 
   links:
